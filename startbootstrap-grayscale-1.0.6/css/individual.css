@@ -10,8 +10,16 @@
   font-size: 4em;
 }
 
+#instructions_header {
+  font-size: 4em;
+}
+
 .themes {
   font-size: 1.5em;
+}
+
+.pdf {
+  left: 50%;
 }
 
 /* SQUARED TWO */
